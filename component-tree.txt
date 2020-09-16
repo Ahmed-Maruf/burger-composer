@@ -1,0 +1,21 @@
+#Burger-Builder
+
+Component Tree
+
+1. Header/Navbar
+    1. Logo
+    2. Menus
+
+2. BurgerBuilder (stateful Component)
+
+3. Controls
+    1. Meat
+    2. Salad
+    3. Cheese
+
+4. Checkout
+
+#State
+1. Ingredients - Object
+2. Purchased
+3. Total Price
